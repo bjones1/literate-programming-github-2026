@@ -1,4 +1,4 @@
-# Top words
+# Top words specification
 
 A news site shows a "Trending words" box beside each article. This spec
 defines a Python function that returns the 10 most common words in an
